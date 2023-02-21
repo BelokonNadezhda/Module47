@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/back1.xml" value="0.22135416666666666" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/back2.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/back3.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/back4.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/back5.xml" value="0.34629629629629627" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/background_search_view.xml" value="0.3509259259259259" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/ic_baseline_cloud.xml" value="0.3769230769230769" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/drawable/ic_favorite.xml" value="0.3769230769230769" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/film_item.xml" value="0.14764492753623187" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_details.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_favorite.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_home.xml" value="0.17831813576494426" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_lookafter.xml" value="0.35260416666666666" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_selections.xml" value="0.20520833333333333" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/layout/merge_home_screen_content.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/menu/navigate_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Projects/Module19/app/src/main/res/menu/top_app_bar.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
