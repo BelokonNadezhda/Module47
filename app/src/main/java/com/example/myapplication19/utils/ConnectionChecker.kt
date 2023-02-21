@@ -21,7 +21,9 @@ internal class ConnectionChecker : BroadcastReceiver() {
             ).show()
             //Если пришло подключение к зараядке
             Intent.ACTION_POWER_CONNECTED -> Toast.makeText(
-                context,"Зарядка подключена",Toast.LENGTH_SHORT
+                context,
+                "Зарядка подключена",
+                Toast.LENGTH_SHORT
             ).show()
         }
     }
