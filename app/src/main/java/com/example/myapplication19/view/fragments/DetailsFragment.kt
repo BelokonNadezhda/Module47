@@ -21,6 +21,7 @@ import com.example.myapplication19.Film
 import com.example.myapplication19.R
 import com.example.myapplication19.data.ApiConstants
 import com.example.myapplication19.databinding.FragmentDetailsBinding
+import com.example.myapplication19.notifications.NotificationHelper
 import com.example.myapplication19.viewmodel.DetailsFragmentViewModel
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.*
@@ -79,6 +80,10 @@ class DetailsFragment : Fragment() {
 
         binding.detailsFabDownloadWp.setOnClickListener {
             performAsyncLoadOfPoster()
+        }
+
+        binding.detailsFabWatchLater.setOnClickListener{
+             NotificationHelper.createNotification(requireContext(), film)
         }
 
     }
