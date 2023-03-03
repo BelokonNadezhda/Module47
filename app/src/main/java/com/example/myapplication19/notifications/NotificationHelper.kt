@@ -15,10 +15,12 @@ import androidx.core.app.NotificationManagerCompat
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.target.CustomTarget
 import com.example.myapplication19.Film
-import com.example.myapplication19.MainActivity
+
 import com.example.myapplication19.R
 import com.example.myapplication19.data.ApiConstants
 import com.example.myapplication19.utils.ReminderBroadcast
+import com.example.myapplication19.viewmodel.MainActivity
+
 import java.util.*
 
 object NotificationHelper {
