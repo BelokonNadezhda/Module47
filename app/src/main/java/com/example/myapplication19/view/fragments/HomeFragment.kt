@@ -20,6 +20,8 @@ import com.example.myapplication19.utils.addTo
 import com.example.myapplication19.view.rv_adapters.FilmListRecyclerAdapter
 import com.example.myapplication19.view.rv_adapters.TopSpacingItemDecoration
 import com.example.myapplication19.viewmodel.HomeFragmentViewModel
+import com.example.myapplication19.viewmodel.MainActivity
+
 
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.ObservableOnSubscribe
@@ -75,10 +77,6 @@ class HomeFragment : Fragment() {
         _binding = null
         super.onDestroy()
     }
-
-
-
-
 
 
 

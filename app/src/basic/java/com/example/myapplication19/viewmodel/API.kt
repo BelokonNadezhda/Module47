@@ -1,4 +1,4 @@
-package com.example.myapplication19
+package com.example.myapplication19.viewmodel
 
 object API {
 

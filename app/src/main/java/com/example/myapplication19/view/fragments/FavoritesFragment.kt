@@ -7,11 +7,12 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplication19.Film
+
 import com.example.myapplication19.view.rv_adapters.FilmListRecyclerAdapter
-import com.example.myapplication19.MainActivity
 import com.example.myapplication19.view.rv_adapters.TopSpacingItemDecoration
 import com.example.myapplication19.databinding.FragmentFavoritesBinding
 import com.example.myapplication19.utils.AnimationHelper
+import com.example.myapplication19.viewmodel.MainActivity
 
 class FavoritesFragment : Fragment() {
 

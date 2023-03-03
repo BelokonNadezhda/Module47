@@ -30,6 +30,7 @@ class Interactor(private val repo: MainRepository, private val retrofitService: 
                 //В случае успешного ответа кладем фильмы в БД и выключаем ProgressBar
                Completable.fromSingle<List<Film>> {
                     repo.putToDb(list)
+                   println("!!!" + list.toString())
                 }
                     .subscribeOn(Schedulers.io())
                     .subscribe()

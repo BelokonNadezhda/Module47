@@ -1,4 +1,4 @@
-package com.example.myapplication19
+package com.example.myapplication19.viewmodel
 
 import android.content.BroadcastReceiver
 import android.content.Intent
@@ -7,6 +7,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import com.example.myapplication19.Film
+import com.example.myapplication19.R
+import com.example.myapplication19.SettingsFragment
 import com.example.myapplication19.databinding.ActivityMainBinding
 import com.example.myapplication19.utils.ConnectionChecker
 import com.example.myapplication19.view.fragments.*
@@ -156,3 +159,4 @@ class MainActivity : AppCompatActivity() {
 
     }
 }
+
