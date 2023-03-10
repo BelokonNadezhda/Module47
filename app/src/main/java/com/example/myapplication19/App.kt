@@ -14,6 +14,7 @@ import com.example.myapplication19.notifications.NotificationConstants.CHANNEL_I
 
 class App : Application() {
     lateinit var dagger: AppComponent
+    var isPromoShown = false
 
     override fun onCreate() {
 
